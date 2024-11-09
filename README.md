@@ -1,4 +1,38 @@
-Ecommerce: https://ecommerce-games-next.vercel.app/
+
+Link: https://ecommerce-games-next.vercel.app/
+
+E-Commerce en Next JS, Strapi y Stripe.
+
+- Hooks personalizados.
+
+- Context API para gestionar datos del usuario y carrito.
+
+- Rutas avanzadas y links con Next JS.
+
+- Sistema de Auth con Strapi con JWT.
+
+- Uso de Formik y Yup.
+
+- Integración de pago con Stripe.
+
+- Zonas restringidas usuarios registrados e invitados.
+
+- Panel de Administrador.
+
+- Uso de Layouts.
+
+- Login y Registro de usuarios.
+
+- Direcciones y configuración de cuenta de usuarios.
+
+- Configuracion plataformas de consolas.
+
+- Registro y configuracion de videojuegos.
+
+- Comprar, pagar y ver el estado de los pedidos.
+
+- Buscador de juegos dinámico y veloz.
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
